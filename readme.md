@@ -33,6 +33,9 @@ The project contains notebook for the analysis process and three figures that wa
 * gross income => It has the gross income from that invoice
 * Rating => It has the customer's rating
 
+## Questions answered in the analysis process
+
+
 ## Resources
 
 The dataset link on Kaggle: [HERE](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
