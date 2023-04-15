@@ -33,6 +33,21 @@ The project contains notebook for the analysis process and three figures that wa
 * gross income => It has the gross income from that invoice
 * Rating => It has the customer's rating
 
+## Questions answered in the analysis process
+1- Which is the most selling branch?  
+2- What city has the most sales?  
+3- What is the most buying customer type?  
+4- What is the most buying gender?  
+5- What types of products each gender buy and how many times they bought it?  
+6- What is the most selling product line?  
+7- How much is the total gross income for each product line?  
+8- The number of units sold in each product line  
+9- The total taxes that the supermarket needs to pay to government  
+10- What is the most used payment method?  
+11- The total cogs that we spent  
+12- The total gross income we earned  
+13- The average customer rating  
+
 ## Resources
 
 The dataset link on Kaggle: [HERE](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
